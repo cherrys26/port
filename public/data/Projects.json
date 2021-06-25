@@ -1,0 +1,91 @@
+{
+    "data": [
+        {
+            "title": "Twitter Clone",
+            "time": "May 2021 – June 2021",
+            "description": {
+                "one": "- Developing a responsive twitter clone app using the MERN stack.",
+                "two": "- Users can follow and unfollow other users, create tweets and view profiles in real-time.",
+                "three": "- Designing and coding in an Agile environment. ",
+                "four": "- Utilized multiple React libraries to create responsive designs"
+            },
+            "technology": "HTML, CSS, JavaScript, Bootstrap, Axios, React, Express.js, Node.js, MongoDB, Mongoose, Trello, GIT",
+            "image": "/switter.jpg",
+            "id": 7
+        },
+        {
+            "title": "Trymilestone.com",
+            "time": "Feb 2021 – Apr 2021",
+            "description": {
+                "one": "- Start-Up company Front-End Designer.",
+                "two": "- Created UI page schematic design."
+            },
+            "technology": "HTML, JavaScript, CSS, jQuery",
+            "image": "/milestone.jpg",
+            "id": 6
+        },
+        {
+            "title": "Website layout",
+            "time": "Mar 2021 - Mar 2021",
+            "description": {
+                "one": "- Responsive boilerplate website that can be fully redesigned via RESTful API.",
+                "two": "- Created custom API server with Node.js.",
+                "three": "- Researched new front-end methodologies, paradigms, and designs - on popular sites - to create customized themes."
+            },
+            "technology": "HTML, SASS, Typescript, JavaScript, Angular 11, Node.js, GIT",
+            "image": "/layout.jpg",
+            "id": 5
+        },
+        {
+            "title": "Trendy-Tendie",
+            "time": "Feb 2021 - Mar 2021",
+            "description": {
+                "one": "- Mobile app that tracks and analyzes user sentiments (via Twitter and Reddit API).",
+                "two": "- Read and manipulate stock and cryptocurrency data via https://finnhub.io and https://api.nomics.co API’s.",
+                "three": "- Used Chart.js to display stock and cryptocurrency information dynamically based on screen orientation and user filters. ",
+                "four": "- Created UI and UX wireframe designs and user story workflows using Lunacy. ",
+                "five": "- Worked with a business analyst to enhance UX"
+            },
+            "technology": "HTML, SASS, Typescript, Chart.js 2, GIT, Ionic 5, Angular 11 (Front-end & API calls), Lunacy",
+            "image": "/trendie-tendie.jpg",
+            "id": 4
+        },
+        {
+            "title": "Comfy House Mobile App",
+            "time": "Feb 2021 - Feb 2021",
+            "description": {
+                "one": "- Created an ecommerce platform for an existing web application.",
+                "two": "- Functionality to CRUD products and categories.",
+                "three": "- Worked with responsive design in both Android & Apple mobile phones"
+            },
+            "technology": "HTML, SASS, Typescript, JavaScript, Ionic 5, Angular 11, GIT, Node.js",
+            "image": "/comfy_house_app.jpg",
+            "id": 3
+        },
+        {
+            "title": "Comfy House WebApp",
+            "time": "Jan 2021 - Feb 2021",
+            "description": {
+                "one": "- Responsive ecommerce platform with cart, category, and product capabilities.",
+                "two": "- API based front-end to allow for dynamic designs.",
+                "three": "- Worked with local storage and best practices on how to optimize UX."
+            },
+            "technology": "HTML, CSS, JavaScript, GIT, Node.js",
+            "image": "/comfy_house.jpg",
+            "id": 2
+        },
+        {
+            "title": "Contact Manager",
+            "time": "Jan 2021 - Jan 2021",
+            "description": {
+                "one": "- Responsive website to create, read, update, and delete contact information.",
+                "two": "- Ability to add new workers’ details and filter through data.",
+                "three": "- Get user data via Angular API calls.",
+                "four": "- Used Angular materials to create a clean and responsive layout."
+            },
+            "technology": "HTML, SASS, JavaScript, Typescript, GIT",
+            "image": "/contact_manager.jpg",
+            "id": 1
+        }
+    ]
+}
